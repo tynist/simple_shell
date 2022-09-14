@@ -2,7 +2,7 @@
 ======================
 
 -   By Julien Barbier
--   Project to be done in teams of 2 people (your team: Pericles Adjovi, Emmanuel Udeji
+-   Project to be done in teams of 2 people (your team: Ughasi Peter and Bakare Muideen Adeleke
 
 Concepts
 --------
