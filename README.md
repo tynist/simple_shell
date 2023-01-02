@@ -365,6 +365,6 @@ Write a blog post describing step by step what happens when you type `ls -l *.c`
 -   The blog post must be done and published before the first deadline (it will be part of the manual review)
 -   Please, remember that these blogs must be written in English to further your technical ability in a variety of settings
 
-When done, please add all urls below (blog post, LinkedIn post, etc.)
-
-#### Add URLs here:
+### When done, please add all urls below (blog post, LinkedIn post, etc.)
+-  [Ughasi Peter](https://github.com/tynist)
+-  [Bakare Muideen Adeleke](bakare1234@gmail.com)
